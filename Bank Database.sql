@@ -15,9 +15,9 @@ CREATE TABLE account
   
 CREATE TABLE amount
   (
-	 fname VARCHAR(30),
-     acno VARCHAR(10),
-     balance INT
+    fname VARCHAR(30),
+    acno VARCHAR(10),
+    balance INT
   );
   
 DESCRIBE account;
